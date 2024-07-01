@@ -1,3 +1,4 @@
 .DS_Store
 .ipynb*
 __pycache__*
+02-open-source/ollama_files/*
